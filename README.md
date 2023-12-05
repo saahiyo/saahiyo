@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a BCA student.<br>I am currently learning JavaScript, C,C++<br> Interested in web development.<br>
+
+Web development enthusiast exploring world of code. <br>BCA student with a flair for crafting dynamic online experiences. 🌐✨
+
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linkg518) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/linkg518) 
