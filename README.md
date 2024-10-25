@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Web development enthusiast exploring world of code. BCA student with a flair for crafting dynamic online experiences. 🌐✨
+Aspiring Full-Stack Developer | Passionate about Web Development & 3D world | Learning Every Day!. 🌐✨
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linkg518) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/linkg518) 
